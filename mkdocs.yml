@@ -34,7 +34,7 @@ extra:
     #link: mailto:<m.iborra@edu.gva.es>
   analytics:
     provider: google
-    property: 
+    property: G-HMZY97C608
 
 plugins:
   - search
