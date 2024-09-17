@@ -6,7 +6,7 @@ authors:
     - Jose Robledano
 date: 2024-09-01
 ---
-# **¿Qué es el pensamiento computacional?**
+# **Desarrollo del Pensamiento Computacional**
 
 El **pensamiento computacional** es un enfoque de resolución de problemas que utiliza conceptos y principios de la informática. Es una habilidad clave que no solo se aplica al desarrollo de software o a la programación, sino que puede usarse para abordar y resolver problemas complejos en diversas áreas de una forma estructurada y eficiente.
 
@@ -58,3 +58,4 @@ Otra definición ampliamente aceptada de pensamiento computacional afirma que es
 - **Preparación para el futuro**: El pensamiento computacional es una habilidad esencial en muchas carreras tecnológicas.
   
 - **Interdisciplinariedad**: Puede aplicarse en múltiples materias, no solo en ciencias o tecnología.
+
