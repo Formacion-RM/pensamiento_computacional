@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://Formacion-RM.github.io/pensamiento_computacional/index.html</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Formacion-RM.github.io/pensamiento_computacional/index2.html</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://Formacion-RM.github.io/pensamiento_computacional/index3.html</loc>
-         <lastmod>2024-09-18</lastmod>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Formacion-RM.github.io/pensamiento_computacional/index4.html</loc>
+         <lastmod>2024-09-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://Formacion-RM.github.io/pensamiento_computacional/index5.html</loc>
+         <lastmod>2024-09-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
