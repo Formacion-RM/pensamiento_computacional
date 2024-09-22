@@ -49,7 +49,7 @@ Otra definición ampliamente aceptada de pensamiento computacional afirma que es
 
 ![imagen](imagenes/pc1.jpg){width="300"}
 
-# **Beneficios del Pensamiento Computacional en el Aula**
+## **Beneficios del Pensamiento Computacional en el Aula**
 
 - **Mejora de habilidades de resolución de problemas**: Al enfrentar a los estudiantes con problemas que deben descomponer y analizar.
   
@@ -58,3 +58,87 @@ Otra definición ampliamente aceptada de pensamiento computacional afirma que es
 - **Preparación para el futuro**: El pensamiento computacional es una habilidad esencial en muchas carreras tecnológicas.
   
 - **Interdisciplinariedad**: Puede aplicarse en múltiples materias, no solo en ciencias o tecnología.
+
+## **Análisis de un texto narrativo usando pensamiento computacional**
+
+Los alumnos/as deberán analizar un texto narrativo corto, identificando los elementos clave como personajes, trama, conflicto y resolución. Usarán los pasos del pensamiento computacional para descomponer el texto, reconocer patrones narrativos comunes, abstraer información importante y desarrollar un esquema para analizar futuros textos.
+
+**1. Plantear el problema (Descomposición):**
+
+El profesor selecciona un cuento corto o fragmento literario que los estudiantes deben analizar.
+Guía a los estudiantes para descomponer el análisis del texto en partes más pequeñas. Esto puede incluir la identificación de los personajes, el contexto, la trama, el conflicto, el clímax y la resolución.
+
+Ejemplo de preguntas a plantear:
+
+    ¿Cuáles son los personajes principales y secundarios?
+
+    ¿Qué acciones componen la trama del texto?
+
+    ¿Dónde se desarrolla la historia y en qué época?
+
+**2. Identificar patrones (Reconocimiento de patrones):**
+
+Después de descomponer el texto, los alumnos/as deben identificar patrones narrativos que se repiten en muchas historias, como el esquema básico de introducción, desarrollo, clímax y desenlace.
+El profesor puede guiar a los alumnos para que reconozcan si el texto sigue un patrón narrativo clásico, como la estructura de los cuentos tradicionales.
+
+Ejemplo de preguntas a plantear:
+
+    ¿Sigue el texto una estructura narrativa conocida?
+
+    ¿Hay patrones comunes en la forma en que los personajes enfrentan el conflicto?
+
+    ¿Cómo se resuelven los problemas en otras historias que ya hemos leído?
+
+**3. Abstracción:**
+
+En esta etapa, los alumnos/as deben centrarse en lo esencial del texto, dejando de lado detalles secundarios para abstraer la estructura principal y los elementos clave de la narración.
+Por ejemplo, los estudiantes deben identificar el tema central de la historia y cómo los personajes principales lo desarrollan, ignorando descripciones o diálogos menos relevantes.
+
+Ejemplo de preguntas a plantear:
+
+    ¿Cuál es el tema principal de la historia?
+
+    ¿Qué información es crucial para entender la trama?
+
+    ¿Qué podemos eliminar sin perder el sentido del texto?
+
+**4. Crear un algoritmo:**
+
+Ahora, los alumnos/as deben crear un algoritmo o conjunto de pasos para analizar futuros textos de forma similar. Este puede ser un esquema que sigan siempre que analicen una narración.
+
+El esquema podría ser algo como:
+
+Algoritmo para analizar un texto narrativo:
+
+- Leer el texto y hacer una primera identificación de personajes, trama y escenario.
+
+- Dividir el texto en introducción, desarrollo, clímax y desenlace.
+
+- Identificar el conflicto principal que enfrentan los personajes.
+
+- Determinar el tema central del texto.
+
+- Resumir la resolución del conflicto y la conclusión de la historia.
+
+Ejemplo de preguntas a plantear:
+
+    ¿Podemos crear una lista de pasos para analizar cualquier texto narrativo?
+
+    ¿Cuáles son los elementos clave que siempre debemos buscar?
+
+    ¿Cómo podemos organizar nuestro análisis para que sea claro y estructurado?
+
+**5. Evaluación y verificación (Evaluación y Depuración):**
+
+Finalmente, el profesor debe pedir a los alumnos/as que evalúen su análisis revisando si han capturado todos los elementos clave del texto.
+Se debe comparar su análisis con otras historias para verificar si el esquema que han desarrollado funciona con diferentes textos.
+
+Ejemplo de preguntas a plantear:
+
+    ¿Nuestro análisis abarca todos los elementos importantes del texto?
+
+    ¿Hay algo que hayamos pasado por alto o que deberíamos agregar a nuestro esquema?
+
+    ¿Podemos aplicar nuestro algoritmo a otro texto y obtener resultados similares?
+    
+

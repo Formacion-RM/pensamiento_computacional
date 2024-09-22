@@ -8,7 +8,38 @@ date: 2024-09-01
 ---
 # **Herramientas para el Pensamiento Computacional**
 
-**Scracht** es una de las aplicaciones más extendidas en el mundo para trabajar el Pensamiento Computacional. Desarrollado por el Instituto de Tecnología de Massachusetts (MIT), su entorno permite introducirse en el mundo de la programación sin conocimientos complejos sobre código.
+
+## **La hora del código**
+
+Es una iniciativa global que busca introducir a personas de todas las edades, especialmente estudiantes, en el mundo de la programación y el pensamiento computacional.
+
+[enlace la hora del código](https://hourofcode.com/como){:target="_blank}
+
+**Características de la Hora del Código:**
+
+- Gratuita y accesible: Está diseñada para que cualquier persona, sin importar el acceso a recursos, pueda participar. Solo se necesita un ordenador o dispositivo móvil con conexión a internet.
+  
+- Actividades variadas: Los tutoriales y juegos son interactivos, y muchos incluyen personajes populares de videojuegos o películas, como Minecraft, Star Wars o Frozen, lo que hace que el aprendizaje sea divertido.
+  
+- Dirigido a todos: Está abierta a estudiantes de todas las edades, desde educación infantil hasta adultos, y no requiere experiencia previa en programación.
+
+## **Blockly**
+
+[enlace a Blockly](https://blockly.games/?lang=es){:target="_blank}
+
+Es una aplicación similar a Scratch. **Blockly** es una herramienta de programación visual basada en bloques, que puede conectarse con lenguajes de programación reales como JavaScript, Python y Dart.
+
+Proporciona una transición suave del pensamiento lógico al código escrito. Es personalizable para diferentes niveles de complejidad.
+
+## **Scracht** 
+
+Es una de las aplicaciones más extendidas en el mundo para trabajar el Pensamiento Computacional. Desarrollado por el Instituto de Tecnología de Massachusetts (MIT), su entorno permite introducirse en el mundo de la programación sin conocimientos complejos sobre código.
+
+Scratch es un entorno de programación por bloques, con una interfaz sencilla, que permite crear historias digitales, juegos y animaciones y otros proyectos a personas de todas las edades, pero que fue pensado teniendo en cuenta principalmente a niños y niñas.
+
+Scratch promueve el pensamiento computacional y las habilidades en resolución de problemas, la enseñanza y aprendizaje creativos, auto expresión y colaboración, igualdad... 
+
+Se pueden incluir actividades basadas en Scratch en diferentes áreas, materias y grupos de edad. ¡La imaginación es el único límite!
 
 ![imagen](imagenes/scratch.png)
 
@@ -16,7 +47,7 @@ Se programa mediante bloques y cuenta con una interfaz atractiva visualmente, pe
 
 Scratch se trabaja como aplicación web, pero también está disponible en formato app  con el nombre de “Scratch Junior”. Dicha app permite a los alumnos y alumnas introducirse en la programación desde edades muy tempranas, pudiendo utilizarse desde los 5 años.
 
-## **Principales características de Scratch**
+### **Principales características de Scratch**
 
 1. **Programación basada en bloques**: Los usuarios ensamblan bloques de colores que representan diferentes acciones, lógicas o eventos. Estos bloques encajan como piezas de un rompecabezas, lo que facilita la comprensión de los conceptos de programación.
 
@@ -30,7 +61,7 @@ Scratch se trabaja como aplicación web, pero también está disponible en forma
 ![imagen](imagenes/scratch2.png){width="300"}
 
 
-## **Ejemplos de uso de Scratch en el pensamiento computacional:**
+### **Ejemplos de uso de Scratch en el pensamiento computacional:**
 
 - **Animación de personajes**: Usar bucles y condicionales para mover personajes en la pantalla.
   
@@ -40,7 +71,7 @@ Scratch se trabaja como aplicación web, pero también está disponible en forma
 
 
 
-## **Scratch en diferentes materias**
+### **Scratch en diferentes materias**
 
 Scratch es una herramienta que no solo se limita a la enseñanza de programación, sino que también puede ser utilizada para fortalecer habilidades creativas, colaborativas y de pensamiento crítico en una amplia variedad de disciplinas. Algunos argumentos sobre cómo Scratch puede beneficiar a diferentes áreas del conocimiento:
 
@@ -60,7 +91,7 @@ Los alumnos pueden programar secuencias musicales, ajustando tiempos, repeticion
 Se pueden crear proyectos que simulen juegos y actividades físicas, ayudando a los estudiantes a comprender conceptos de salud y bienestar. Los alumnos pueden programar herramientas para rastrear sus propios logros físicos, como pasos o tiempos de carrera, mientras aprenden sobre hábitos saludables.
 
 
-# **Ventajas para los profesores en todas las materias**
+### **Ventajas para los profesores en todas las materias**
 
 **Fomenta la creatividad**: Scratch permite a los alumnos desarrollar soluciones creativas a problemas complejos, lo que lo hace aplicable a cualquier área de estudio.
 
