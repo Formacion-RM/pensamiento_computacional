@@ -7,9 +7,9 @@ use_directory_urls: false
 nav:
   - "1. El Pensamiento Computacional ": "index.md"
   - "2. Acción con programación": "index2.md"  
-  #- "3. Herramientas para el pensamiento computacional": "index3.md"
-  #- "4. Funcionamiento de Scratch": "index4.md"
-  #- "5. Proyectos con Scratch": "index5.md"
+  - "3. Herramientas para el pensamiento computacional": "index3.md"
+  - "4. Funcionamiento de Scratch": "index4.md"
+  - "5. Proyectos con Scratch": "index5.md"
 
 
 theme:
